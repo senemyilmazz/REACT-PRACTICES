@@ -1,0 +1,6 @@
+[submodule "React-TS-Practice"]
+	path = React-TS-Practice
+	url = https://github.com/senemyilmazz/react-ts-practice-project.git
+[submodule "React-JS-Practice"]
+	path = React-JS-Practice
+	url = https://github.com/senemyilmazz/react-js-practice-project.git
